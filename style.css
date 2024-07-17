@@ -14,3 +14,25 @@ h1{
 button{
     background-color: green;
 }
+p{
+    text-align: start;
+    font-family: 'Times New Roman';
+    line-height: 30px;
+}
+/* start or right same.....end or left same */
+h1{
+    text-align: center;
+    /* text-decoration: red dashed underline; */
+    text-decoration: blue wavy underline;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+div{
+    height: 100px;
+    background-color: pink;
+    width: 100px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: brown;
+}
